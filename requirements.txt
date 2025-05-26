@@ -6,3 +6,6 @@ streamlit>=1.31.0
 requests>=2.31.0
 fastapi>=0.100.0
 uvicorn[standard]>=0.20.0 # [standard] includes performance extras
+dotenv
+a2a-python
+
